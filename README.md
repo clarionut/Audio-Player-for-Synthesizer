@@ -5,3 +5,4 @@ This was inspired by the [Tesseract Modular 'Low Coast'](https://www.tesseractmo
 Eurorack-level outputs, one for each of the stereo channels of the module.
 
 This version also provides a mono mix output and has trigger inputs for the transport controls - play/pause, next station/track & previous station/track.
+<img src="https://github.com/clarionut/Audio-Player-for-Synthesizer/blob/main/pictures/IMG_20250825_143600447~2.jpg">
