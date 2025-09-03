@@ -10,5 +10,5 @@ This version also provides a mono mix output and has trigger inputs for the tran
 I'm not sure that this will be a particularly useful module, but I wanted to experiment using FETs as switches to allow external control. Also the modules are
 very cheap!
 
-## Details
+### Details
 
