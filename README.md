@@ -7,3 +7,5 @@ Eurorack-level outputs, one for each of the stereo channels of the module.
 This version also provides a mono mix output and has trigger inputs for the transport controls - play/pause, next station/track & previous station/track.
 
 <img width="25%" height="25%" src="https://github.com/clarionut/Audio-Player-for-Synthesizer/blob/main/pictures/IMG_20250825_143600447~2.jpg">
+
+I'm not sure that this will be a particularly useful module, but it's very cheap to make and I wanted to experiment using FETs as switches to allow external control.
