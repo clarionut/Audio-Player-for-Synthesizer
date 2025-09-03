@@ -6,7 +6,7 @@ This version also provides a mono mix output and has trigger inputs for the tran
 
 <img width="25%" height="25%" src="https://github.com/clarionut/Audio-Player-for-Synthesizer/blob/main/pictures/Audio%20Player%20Panel.jpg">
 
-I'm not sure that this will be a particularly useful synth module, but I wanted to experiment using FETs as switches to allow external control. Also the Kebidu units are very cheap - I got two for around £5 including shipping.
+I'm not sure that this will be a particularly useful synth module, but I wanted to experiment using FETs as switches to allow external control. Somewhat to my surprise this works perfectly, with the switches being triggered by the rising edge of input pulses. Also the Kebidu units are very cheap - I got two for around £5 including shipping.
 
 ### Details
 The Schematics folder contains pictures of the kicad schematic, the stripboard layout I used to build the module and a proposed PCB layout. Note that I haven't had the PCB fabricated, so use this at your own risk! The kicad project itself is in the AudioPlayer folder.
